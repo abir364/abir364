@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Abir 🧑🏾‍💻
 
-I am an aspiring software developer from Bangladesh. I enjoy working with development technologies such as react, tailwind, node, html, css, javascript, mysql and webpack. I also enjoy learning new technologies. I am currently learning about linux, express and networking. I learn to build a strong foundation and keep up to date with the latest trends.
+I am an aspiring software developer from Bangladesh. I enjoy working with development technologies such as react, tailwind, node, html, css, javascript, mysql and webpack. I also enjoy learning new technologies. I am currently learning about linux, express and networking. I learn to build a strong foundation and keep up to date with the latest tech.
 
 ## Languages and Tools  
 <div>  
@@ -23,5 +23,6 @@ I am an aspiring software developer from Bangladesh. I enjoy working with develo
 </div>  
 
 ## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abir364&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&hide_title=true&layout=compact&langs_count=6&theme=tokyonight" /><!-- wi*quL3fcV -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=abir364&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
