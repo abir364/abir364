@@ -8,7 +8,9 @@ I am an aspiring software developer from Bangladesh. I particularly aspire to be
 <p align="left">
 <a href="https://www.linkedin.com/in/abir-hossain-8b57b9174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abir.hossain.364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir" height="30" width="40" /></a>
-
+<a href="https://www.hackerrank.com/hackerrank.com/abirh364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/abirh364" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/abirh364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abirh364/" height="30" width="40" /></a>
+<a href="https://discord.gg/discordapp.com/users/393060825855950850" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discordapp.com/users/393060825855950850" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools 🚀
@@ -32,6 +34,10 @@ I am an aspiring software developer from Bangladesh. I particularly aspire to be
 ## What I'm currently learning 🧠
 I am currently learning about Linux, Express, AWS and networking. I am also learning about CI/CD, Docker, Kubernetes. Learning new technology is a very important trait needed to be a sucessful developer.
 
+## Projects 🌟
+
+## Screenshots of Project 🖥️
+
 ## Education 🎓
 | BRAC University | BSc in Computer Science and Engineering | 2022 | 
 |-----------------|-----------------------------------------|----- |
@@ -41,5 +47,5 @@ I am currently learning about Linux, Express, AWS and networking. I am also lear
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&hide_title=true&layout=compact&langs_count=6&theme=tokyonight" /><!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abir364&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
 
-<p align="left"> <img height="40px" src="https://komarev.com/ghpvc/?username=abir364&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
+<p align="left"> <img height="30px" src="https://komarev.com/ghpvc/?username=abir364&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
 
