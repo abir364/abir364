@@ -4,7 +4,7 @@
 
 I am an aspiring software developer from Bangladesh. I enjoy working with development technologies such as react, tailwind, node, html, css, javascript, mysql and webpack. I also enjoy learning new technologies. I am currently learning about linux, express and networking. I learn to build a strong foundation and keep up to date with the latest tech.
 
-## Languages and Tools  
+## Languages and Tools 🚀
 <div>  
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
@@ -22,7 +22,13 @@ I am an aspiring software developer from Bangladesh. I enjoy working with develo
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
 </div>  
 
-## My stats
+## Education 🎓
+| BRAC University | BSc in Computer Science and Engineering | 2022 | 
+|-----------------|-----------------------------------------|----- |
+
+## My stats 📈
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&hide_title=true&layout=compact&langs_count=6&theme=tokyonight" /><!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abir364&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir364&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
