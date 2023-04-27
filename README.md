@@ -23,4 +23,5 @@ I am an aspiring software developer from Bangladesh. I enjoy working with develo
 </div>  
 
 ## My stats
-[![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abir364)](https://github.com/anuraghazra/github-readme-stats?username=anuraghazra&show_icons=true&theme=onedark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abir364&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
