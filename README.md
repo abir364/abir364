@@ -2,7 +2,14 @@
 
 # Hi there 👋, I'm Abir 🧑🏾‍💻
 
-I am an aspiring software developer from Bangladesh. I enjoy working with development technologies such as react, tailwind, node, html, css, javascript, mysql and webpack. I also enjoy learning new technologies. I am currently learning about linux, express and networking. I learn to build a strong foundation and keep up to date with the latest tech.
+I am an aspiring software developer from Bangladesh. I particularly aspire to be a web developer. I enjoy working with development technologies such as react, tailwind, node, html, css, javascript, mysql and webpack. I also enjoy learning new technologies. I learn to build a strong foundation and keep up to date with the latest tech.
+
+## How to reach me 📫
+<p align="left">
+<a href="https://www.linkedin.com/in/abir-hossain-8b57b9174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abir.hossain.364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir" height="30" width="40" /></a>
+
+</p>
 
 ## Languages and Tools 🚀
 <div>  
@@ -22,6 +29,9 @@ I am an aspiring software developer from Bangladesh. I enjoy working with develo
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
 </div>  
 
+## What I'm currently learning 🧠
+I am currently learning about Linux, Express, AWS and networking. I am also learning about CI/CD, Docker, Kubernetes. Learning new technology is a very important trait needed to be a sucessful developer.
+
 ## Education 🎓
 | BRAC University | BSc in Computer Science and Engineering | 2022 | 
 |-----------------|-----------------------------------------|----- |
@@ -31,4 +41,5 @@ I am an aspiring software developer from Bangladesh. I enjoy working with develo
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&hide_title=true&layout=compact&langs_count=6&theme=tokyonight" /><!-- wi*quL3fcV -->
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=abir364&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir364&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
+<p align="left"> <img height="40px" src="https://komarev.com/ghpvc/?username=abir364&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
+
