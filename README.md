@@ -9,7 +9,7 @@ I am an aspiring software developer from Bangladesh. I particularly aspire to be
 <a href="https://www.linkedin.com/in/abir-hossain-8b57b9174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir" height="30" width="40" /></a>
 <a href="https://www.facebook.com/abir.hossain.364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hackerrank.com/abirh364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/abirh364" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/abirh364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abirh364/" height="30" width="40" /></a>
+<a href="https://leetcode.com/abirh364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abirh364/" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 </p>
 
